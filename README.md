@@ -1,2 +1,4 @@
 # git-trial
-demo of git
+demo of git\
+<br>
+Author - Saurabh Maurya
